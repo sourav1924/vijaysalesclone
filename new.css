@@ -1,0 +1,133 @@
+body{
+    background-color:rgb(255,255,255);
+     /* display: flex;  
+     justify-content: space-evenly;
+    align-items: center; */
+   viewport-fit: 0px;
+    
+}
+nav{position:left;
+    top: 0;
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    margin-top: 0%;
+    
+}
+h3{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: normal;
+}
+#MainName{
+    font-family:sans-serif;
+}
+#QWE{
+    background-color: white;
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+article{
+    height: 30px;
+    width: 75%;
+    background-color:black;
+    display: flex;
+    margin: 0 auto; 
+    align-items: center;
+    justify-items: center;
+}
+
+div{font-size: small;
+    color: white;
+    border: 1px solid black;
+    flex: 1;
+     align-items: end;
+    justify-content: center; 
+    padding-inline-end: 0%;
+    viewport-fit: 0px;
+}
+#name{
+    background-color: black;
+    align-items: center;
+    justify-items: center;
+}
+#abc{
+    color: rgb(0, 0, 0);
+    font-family:sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    border: 0ch white;
+
+}
+#hi{
+    box-sizing: border-box;
+    height: 100%;
+    width: 100px;
+    align-items: center;
+}
+
+#search{
+    size: 1%;
+}
+
+.pqr{
+    background-color:rgb(252,235,227);
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}   
+.span1{background-color:rgb(254,138,87); 
+    position:left;
+    top: 0;
+    height: 30px;
+    width: 100px;
+       
+}
+.div7{
+    height: 100%;
+    width: 90%;
+    background-color:white;
+    display: flex;
+    margin: 0 auto;
+    border: 0ch white;
+}
+
+.div8{font-size: small;
+    color: white;
+    flex: 1;
+    border: 0ch white;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0%;
+    justify-content:space-between;
+    align-items:center;
+    padding: 50px;
+}
+
+#SOP{
+    color: black;
+    width: 100%;
+    border-color:white;
+    background-color: white;
+    height: 40px;
+    width: 100%;
+    
+    justify-content: center;
+}
+#open{
+    display: flex;
+    background-color: white;
+    justify-content:space-around;
+    align-items:flex-start;
+
+}
+#asd{
+    color: black;
+}
